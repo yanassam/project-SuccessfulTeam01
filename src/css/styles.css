@@ -1,0 +1,18 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+@import url('./fonts.css');
+@import url('./0-general.css');
+@import url('./1-header.css');
+@import url('./2-hero.css');
+@import url('./3-about-us.css');
+@import url('./4-catalog.css');
+@import url('./5-advertisement.css');
+@import url('./6-sale.css');
+@import url('./7-reviews.css');
+@import url('./8-contact-us.css');
+@import url('./9-footer.css');
+@import url('./10-modal-window.css');
